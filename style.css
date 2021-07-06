@@ -65,10 +65,9 @@ h1{
     color: grey;
 }
 .containar{
-    background-color: black;
-    width: 50%;
-    margin-left: 35%;
+    background-color: black; 
+    padding-left: 400px;
     }
-.color{
-    color: white;
-}    
+.color-to{
+ color: rgb(255, 253, 253);
+}
