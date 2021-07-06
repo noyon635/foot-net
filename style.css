@@ -7,7 +7,7 @@ h1{
  .orage-color{
     color: orange;
 }
-section{
+.flaxible-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -17,6 +17,7 @@ section{
 }
 .half-width img{
     width: 80%;
+    padding-left: 2%;
 }
 .link-button{
     text-decoration: none;
@@ -26,8 +27,48 @@ section{
     font-weight: 700;
     border-radius: 20px;
 }
-.about-me{
+.dream-big{
     background-image: url(images/Frame\ 57.jpg);
     background-repeat: no-repeat;
     background-position: left;
 }
+.experience-item{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 13px;
+    padding-top: 13px;
+    border-radius: 40px;
+    box-shadow: 10px 10px 40px grey;
+}
+.experience-item img{
+    width: 95%;
+    padding-left: 0%;
+    padding-right: 0%;
+
+}
+.my-recipes{
+    width: 40%;
+    margin-left: 35%;
+    padding-left: 50x;
+    margin-bottom: 100px;
+    padding-left: 13px;
+}
+.experience-wow{
+    width: 40%;
+    margin-left: 10%;
+}
+.orage-color{
+    color: orange;
+}
+.grey{
+    color: grey;
+}
+.containar{
+    background-color: black;
+    width: 50%;
+    margin-left: 35%;
+    }
+.color{
+    color: white;
+}    
